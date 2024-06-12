@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color:darkolivegreen;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 20px;
+	line-height: 20px;
+	width: 1000px;
+	padding: 10px;
+}
+h1 { 
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 50px;
+	color:saddlebrown;
+}
+h2 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: saddlebrown;
+	background-color:darkseagreen;
+}
+a:link {
+	color:saddlebrown;
+	background-color:darkseagreen;
+	padding: 10px;
+	line-height: 40px;	
+}
+a:hover {
+	background-color: antiquewhite;
+}
+.drugapozadina {
+	background-color:#Dcdcdc;
+}
